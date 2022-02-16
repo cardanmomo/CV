@@ -154,10 +154,12 @@ Programming
 Personal
 -----
 Nationality
-:   Mexican
+:   Mexican\
+\
 
 Visa status
-:   Researcher under the Directive (EU) 2016/801
+:   Researcher under the Directive (EU) 2016/801\
+\
 
 Date of birth
 :   20 September 1990
