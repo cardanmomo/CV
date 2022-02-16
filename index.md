@@ -4,8 +4,8 @@ Carlos D. Mora Moreno
 ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <cd@moramoreno.com>
 -----------------------------------------------------------------------
 > [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)   
-> [GitHub](http://github.com/cardanmomo)  
-> [chrome](https://moramoreno.com)
+> [graduation-cap](https://www.tue.nl/en/research/researchers/carlos-daniel-mora-moreno/)  
+> [desktop](https://moramoreno.com)
 
 <center>
 <font size="4">
@@ -35,7 +35,7 @@ Experience
 ----------
 
 2017 - present
-:   **Ph.D. Researcher at [Eindhoven University of Technology](https://www.tue.nl/)**
+:   **Ph.D. Researcher at [Eindhoven University of Technology](https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/)**
 
     - **Main project:** Development of mathematical models to predict and reduce heat transport in fusion plasma reactors
     - **Skills / duties:**

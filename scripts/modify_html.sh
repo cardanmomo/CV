@@ -36,8 +36,8 @@ rm tmp_ga.html
 echo 'add media logos'
 # set up variables
 nr_media=3
-declare -a urls=("https://www.linkedin.com/in/c-mora-moreno/" "http://github.com/cardanmomo/" "https://moramoreno.com")
-declare -a names=("linkedin" "github" "chrome")
+declare -a urls=("https://www.linkedin.com/in/c-mora-moreno/" "https://www.tue.nl/en/research/researchers/carlos-daniel-mora-moreno/" "https://moramoreno.com")
+declare -a names=("linkedin" "graduation-cap" "desktop")
 # change blockquote to a centered div
 media_line=$(grep -n -m 1 'blockquote' index.html | cut -f1 -d":")
 sed -i '' ${media_line}'s/blockquote/div style="text-align:center; margin-bottom:15px"/' index.html
@@ -49,7 +49,12 @@ do
     escaped_url=$(sed 's|/|\\/|g' <<< ${urls[$i-1]})
     media_line=$(grep -n -m 1 ${names[$i-1]} index.html | cut -f1 -d":")
     sed -i.bak -e ${media_line}'d' index.html
-    gsed -i ${media_line}"i  <a href=\"${escaped_url}\" target=\"_blank\"> <span class=\"fa-stack fa-lg\"> <i class=\"fas fa-circle fa-stack-2x\"><\/i> <i class=\"fab fa-${names[$i-1]} fa-stack-1x fa-inverse\"><\/i> <\/span> <\/a> " index.html
+    if ((i == "1"));
+    then
+      gsed -i ${media_line}"i  <a href=\"${escaped_url}\" target=\"_blank\"> <span class=\"fa-stack fa-lg\"> <i class=\"fas fa-circle fa-stack-2x\"><\/i> <i class=\"fab fa-linkedin-in fa-stack-1x fa-inverse\"><\/i> <\/span> <\/a> " index.html
+    else
+      gsed -i ${media_line}"i  <a href=\"${escaped_url}\" target=\"_blank\"> <span class=\"fa-stack fa-lg\"> <i class=\"fas fa-circle fa-stack-2x\"><\/i> <i class=\"fas fa-${names[$i-1]} fa-stack-1x fa-inverse\"><\/i> <\/span> <\/a> " index.html
+    fi
     rm *.bak
 done
 
