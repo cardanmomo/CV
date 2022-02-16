@@ -3,7 +3,6 @@ Carlos D. Mora Moreno
 ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 ✉ carlos@moramoreno.com
 
   LinkedIn
-  GitHub
 
 Delivering new technologies in benefit of the society is my passion. My
 experience as a researcher in industry and academia has prepared me to
@@ -47,10 +46,11 @@ Experience
         -   ‘Big data’ approach for analysis of terabytes of turbulence
             simulations
         -   Build models, then test and validate their performance
-        -   Deliver engaging presentations
-        -   Write research proposals and reports
+        -   Manage multi-national collaborative tasks
         -   Prepare novel scientific publications
-        -   Manage multi-national collaborative tasks 2017
+        -   Write research proposals and reports
+        -   Deliver engaging presentations
+        -   Teaching and student supervision 2017
 
     Research Associate at UK Atomic Energy Authority
 
@@ -70,7 +70,8 @@ Experience
     Diagnostics Engineer at TAE technologies and spin-off Plasmatech
 
     -   Main project: Characterisation of impurity losses in a linear
-        plasma device using Doppler spectroscopy
+        plasma device using Doppler spectroscopy – bachelor’s thesis
+        topic
     -   Skills / duties:
         -   Hands-on maintenance of experimental setup
         -   Development of data acquisition routines
@@ -78,7 +79,6 @@ Experience
         -   Involvement in discussion of physical results
         -   Experience in a multi-physics, engineering and industrial
             environment
-        -   Result: Thesis on the main project
 
 ------------------------------------------------------------------------
 
@@ -117,13 +117,10 @@ Education
 
     Universitat Autònoma de Barcelona
 
-    -   Six months exchange program
     -   Followed courses:
         -   Particle physics
         -   Business organisation and management
         -   Entrepreneurship
-
-------------------------------------------------------------------------
 
 2009 - 2012
 
@@ -134,18 +131,6 @@ Education
     -   Assistant at the local plasma laboratory
     -   International exchange scholarship
     -   End-project scholarship
-
-------------------------------------------------------------------------
-
-Teaching experience
-
-2015 - 2019
-
-    Student supervision
-
-    -   Master thesis on plasma turbulence in stellarators
-    -   Bachelor end-projects on turbulence saturation mechanisms in
-        stellarators
 
 ------------------------------------------------------------------------
 
@@ -166,20 +151,20 @@ Computer
     -   Vim · Preferred editor
     -   LaTeX · Publication-quality documents
     -   Bash, Make, … · Daily scripting and development
-    -   Microsoft Office · Where useful
     -   Git · For version control of virtually everything
     -   html, CSS · Used for this curriculum vitae (with markdown →
         Pandoc)
+    -   Microsoft Office · Where useful
 
 Programming
 
-    -   Python · Numpy, scipy, cython, matplotlib, dask, pandas
+    -   Python · Numpy, scipy, pandas, matplotlib, dask, cython
     -   Jupyter · Lab and notebooks. Used for daily data analysis
     -   MATLAB · Data analysis, powerful toolset for engineers and
         scientists with full workflow experience
     -   Mathematica · Symbolic computing
     -   SLURM · Job manager used for cluster computing
-    -   C++ · Used for side projects
+    -   C++ · Limited experience, used for side projects
     -   Fortran · HPC applications such as GENE
     -   Bash, Make · Experience with linux scripting and development
     -   MPI, OpenMP · Used for parallelisation for HPC
