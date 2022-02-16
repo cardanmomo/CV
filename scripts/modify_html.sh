@@ -7,7 +7,7 @@ sed -i -e ${h1_line}'d' index.html
 
 echo 'color last name in h1'
 h1_line=$(grep -n -m 1 '<h1 id' index.html | cut -f1 -d":")
-sed -i '' ${h1_line}'s/Carlos D. Mora Moreno/<span style="font-weight:100;">Carlos D.<\/span> <span style="font-weight: 100; color: #00567c;">Mora Moreno<\/span>/' index.html
+sed -i '' ${h1_line}'s/Carlos D. Mora Moreno/<span style="font-weight:100; color: #dc303d;">Carlos D.<\/span> <span style="font-weight: 100; color: #7bacb0;">Mora Moreno<\/span>/' index.html
 
 echo 'change layout of first h2, which contains personal information'
 h2_line=$(grep -n -m 1 '<h2 id' index.html | cut -f1 -d":")

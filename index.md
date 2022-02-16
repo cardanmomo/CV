@@ -7,28 +7,27 @@ Carlos D. Mora Moreno
 > [GitHub](http://github.com/cardanmomo)  
 > [chrome](https://moramoreno.com)
 
-<!-- <center> -->
+<center>
 <font size="4">
-Delivering new technologies in benefit of the society is my passion.
-My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution. My most recent results explain a decade-long problem about geometric constraints.
+Delivering new technologies in benefit of the society is my passion.  
+My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution.  
+My most recent results explain a decade-long problem about geometric constraints.
 </font>
-<!-- </center> -->
+</center>
+
 
 ----
 
-Values:
-:   Reliability, transcendence, innovation and pursuit of excellence, responsibility, respect, personal development
+<font color="dc303d">Values:</font>
+:   <font size="2.95">Curiosity, transcendence, innovation, pursue of excellence, responsibility, confidence, team spirit </font>\
+\
 
-Competencies:
-:   Analytical mind, attention to detail, leadership, proactivity, persistency, reliability, multiculturality
+<font color="dc303d">Competencies:</font>
+:   <font size="2.95">Analytical mind, attention to detail, leadership, proactivity, persistency, reliability, multiculturality </font>\
+\
 
-----
-
-Nationality:
-:   Mexican
-
-Date of birth:
-:   20/09/1990
+<font color="dc303d">Technical skills:</font>
+:   <font size="2.95">Mathematical modelling, data management and analysis using computational tools, ability to perform lab experiments, creative approach to problem solving, fast learner in changing environments, troubleshoot of complex problems both in a team or on my own, excellent oral and written communication skills </font>
 
 ----
 
@@ -149,6 +148,19 @@ Programming
     * **Fortran** · HPC applications such as [GENE](https://genecode.org/details.html)
     * **Bash**, **Make** · Experience with linux scripting and development
     * **MPI**, **OpenMP** · Used for parallelisation for HPC
+
+----
+
+Personal
+-----
+Nationality:
+:   Mexican
+
+Visa status:
+:   Researcher under the Directive (EU) 2016/801
+
+Date of birth:
+:   20 September 1990
 
 ----
 
