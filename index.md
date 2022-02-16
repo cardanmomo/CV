@@ -11,7 +11,7 @@ Carlos D. Mora Moreno
 <font size="4">
 Delivering new technologies in benefit of the society is my passion.  
 My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution.  
-My most recent results explain a decade-long problem about geometric constraints.
+My most recent results resolve a decade-long problem about geometric constraints.
 </font>
 </center>
 
