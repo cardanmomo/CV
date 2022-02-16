@@ -25,9 +25,11 @@
 <p class="author">Carlos Daniel Mora Moreno</p>
 </header>
 <h1 id="carlos-d.-mora-moreno">Carlos D. Mora Moreno</h1>
-<h2 id="deventer-the-netherlands-31-0-618-94-77-97-carlosmoramoreno.com">➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉ <a href="mailto:carlos@moramoreno.com" class="email">carlos@moramoreno.com</a></h2>
+<h2 id="deventer-the-netherlands-31-0-618-94-77-97-cdmoramoreno.com">➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉ <a href="mailto:cd@moramoreno.com" class="email">cd@moramoreno.com</a></h2>
 <blockquote>
-<p><a href="https://www.linkedin.com/in/c-mora-moreno/">LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/c-mora-moreno/">LinkedIn</a><br />
+<a href="http://github.com/cardanmomo">GitHub</a><br />
+<a href="https://moramoreno.com">chrome</a></p>
 </blockquote>
 <!-- <center> -->
 <p><font size="4"> Delivering new technologies in benefit of the society is my passion. My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution. My most recent results explain a decade-long problem about geometric constraints. </font> <!-- </center> --></p>
@@ -53,7 +55,7 @@
 <h2 id="experience">Experience</h2>
 <dl>
 <dt>2017 - present</dt>
-<dd><p><strong>Ph.D. Candidate at <a href="https://www.tue.nl/">Eindhoven University of Technology</a></strong></p>
+<dd><p><strong>Ph.D. Researcher at <a href="https://www.tue.nl/">Eindhoven University of Technology</a></strong></p>
 <ul>
 <li><strong>Main project:</strong> Development of mathematical models to predict and reduce heat transport in fusion plasma reactors</li>
 <li><strong>Skills / duties:</strong>
@@ -66,10 +68,11 @@
 <li>Prepare novel scientific publications</li>
 <li>Write research proposals and reports</li>
 <li>Deliver engaging presentations</li>
-<li>Teaching and student supervision 2017</li>
+<li>Teaching and student supervision</li>
 </ul></li>
 </ul>
 </dd>
+<dt>2017</dt>
 <dd><p><strong>Research Associate at <a href="https://www.gov.uk/government/organisations/uk-atomic-energy-authority">UK Atomic Energy Authority</a></strong></p>
 <ul>
 <li><strong>Main project:</strong> Develop experimental scenarios to test the capabilities of a new magnetic coil configuration of a fusion plasma reactor</li>
@@ -86,7 +89,7 @@
 <dt>2015 - 2016</dt>
 <dd><p><strong>Diagnostics Engineer at <a href="https://tae.com/">TAE technologies</a> and spin-off <a href="https://www.linkedin.com/company/plasma-diagnostics-and-technologies/about/">Plasmatech</a></strong></p>
 <ul>
-<li><strong>Main project:</strong> Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy – bachelor’s thesis topic</li>
+<li><strong>Main project:</strong> Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy</li>
 <li><strong>Skills / duties:</strong>
 <ul>
 <li>Hands-on maintenance of experimental setup</li>
@@ -95,6 +98,7 @@
 <li>Involvement in discussion of physical results</li>
 <li>Experience in a multi-physics, engineering and industrial environment</li>
 </ul></li>
+<li>Bachelor’s thesis written on this topic</li>
 </ul>
 </dd>
 </dl>
@@ -106,15 +110,18 @@
 <p><em><a href="https://www.tue.nl/">Eindhoven University of Technology</a> · <a href="https://www.ipp.mpg.de/en">Max Planck Institute for Plasma Physics</a></em></p>
 <ul>
 <li>Specialisation in Science and Technology of Nuclear Fusion</li>
-<li>In collaboration with the institute hosting the most advanced device of its type: <a href="https://www.ipp.mpg.de/w7x">Wendelstein 7-X</a></li>
-<li>Followed soft-skills training courses about communication, scientific integrity, project managing, writing workshops, and student supervision</li>
+<li>Joint project in collaboration with the institute home the most advanced<br />
+device of its type: <a href="https://www.ipp.mpg.de/w7x">Wendelstein 7-X</a></li>
+<li>Soft-skills training followed: Public Speaking, Scientific Integrity,<br />
+Project Managing, Writing Workshops and Student Supervision</li>
 </ul>
 </dd>
 <dt>2016 - 2017</dt>
 <dd><p><strong>Master of Science (with distinction) in <a href="https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/">Fusion Energy</a></strong></p>
 <p><em><a href="https://www.york.ac.uk/physics/ypi/">University of York</a> · <a href="https://www.gov.uk/government/organisations/uk-atomic-energy-authority">UK Atomic Energy Authority</a></em></p>
 <ul>
-<li>Specialisation program to address the current energy demand with an innovative solution: Nuclear Fusion</li>
+<li>Specialisation program to address the current energy demand<br />
+with an innovative solution: Nuclear Fusion</li>
 <li>Focus on theoretical plasma physics and HPC computing</li>
 <li>One-year program with focus on research experience</li>
 <li>Awarded a scholarship from the <a href="https://www.conacyt.gob.mx/">Mexican Science and Technology Council</a></li>
@@ -123,13 +130,11 @@
 <dt>2014</dt>
 <dd><p><strong>International exchange experience</strong></p>
 <p><em><a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">Universitat Autònoma de Barcelona</a></em></p>
-<!-- - Six months exchange program -->
 <ul>
-<li>Followed courses:
+<li>Six months exchange program</li>
+<li>Courses followed:
 <ul>
-<li>Particle physics</li>
-<li>Business organisation and management</li>
-<li>Entrepreneurship</li>
+<li>Particle Physics, Business Organisation and Management, Entrepreneurship</li>
 </ul></li>
 </ul>
 </dd>
@@ -183,8 +188,8 @@
 <dd><ul>
 <li><strong>Python</strong> · Numpy, scipy, pandas, matplotlib, dask, cython</li>
 <li><strong>Jupyter</strong> · Lab and notebooks. Used for daily data analysis</li>
-<li><strong>MATLAB</strong> · Data analysis, powerful toolset for engineers and scientists with full workflow experience</li>
-<li><strong>Mathematica</strong> · Symbolic computing</li>
+<li><strong>MATLAB</strong> · Data analysis, powerful toolset with full workflow experience</li>
+<li><strong>Mathematica</strong> · Used for symbolic computing</li>
 <li><strong>SLURM</strong> · Job manager used for cluster computing</li>
 <li><strong>C++</strong> · Limited experience, used for side projects</li>
 <li><strong>Fortran</strong> · HPC applications such as <a href="https://genecode.org/details.html">GENE</a></li>
@@ -209,7 +214,7 @@ References
 ----
 -->
 <blockquote>
-<p>➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉ <a href="mailto:carlos@moramoreno.com" class="email">carlos@moramoreno.com</a></p>
+<p>➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉ <a href="mailto:cd@moramoreno.com" class="email">cd@moramoreno.com</a></p>
 </blockquote>
 <blockquote>
 <p><a href="https://raw.githubusercontent.com/cardanmomo/CV/master/CV_CD_Mora_Moreno.pdf">pdf version</a> · <a href="https://raw.githubusercontent.com/cardanmomo/CV/master/CV_CD_Mora_Moreno.txt">txt version</a> · <a href="https://cv.moramoreno.com/">html version</a> · <a href="https://github.com/cardanmomo/CV">source</a></p>

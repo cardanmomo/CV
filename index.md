@@ -1,9 +1,11 @@
 Carlos D. Mora Moreno
 ===========
 
-➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <carlos@moramoreno.com>
+➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <cd@moramoreno.com>
 -----------------------------------------------------------------------
-> [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)
+> [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)   
+> [GitHub](http://github.com/cardanmomo)  
+> [chrome](https://moramoreno.com)
 
 <!-- <center> -->
 <font size="4">
@@ -34,7 +36,7 @@ Experience
 ----------
 
 2017 - present
-:   **Ph.D. Candidate at [Eindhoven University of Technology](https://www.tue.nl/)**
+:   **Ph.D. Researcher at [Eindhoven University of Technology](https://www.tue.nl/)**
 
     - **Main project:** Development of mathematical models to predict and reduce heat transport in fusion plasma reactors
     - **Skills / duties:**
@@ -47,6 +49,7 @@ Experience
       - Write research proposals and reports
       - Deliver engaging presentations
       - Teaching and student supervision
+
 2017
 :   **Research Associate at [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)**
 
@@ -61,13 +64,14 @@ Experience
 2015 - 2016
 :   **Diagnostics Engineer at [TAE technologies](https://tae.com/) and spin-off [Plasmatech](https://www.linkedin.com/company/plasma-diagnostics-and-technologies/about/)**
 
-    - **Main project:** Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy – bachelor's thesis topic
+    - **Main project:** Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy
     - **Skills / duties:**
       - Hands-on maintenance of experimental setup
       - Development of data acquisition routines
       - Support to lead scientists during experimental campaigns
       - Involvement in discussion of physical results
       - Experience in a multi-physics, engineering and industrial environment
+    - Bachelor's thesis written on this topic
 
 ----
 
@@ -80,15 +84,18 @@ Education
     *[Eindhoven University of Technology](https://www.tue.nl/) · [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/en)*
 
     - Specialisation in Science and Technology of Nuclear Fusion
-    - In collaboration with the institute hosting  the most advanced device of its type: [Wendelstein 7-X](https://www.ipp.mpg.de/w7x)
-    - Followed soft-skills training courses about communication, scientific integrity, project managing, writing workshops, and student supervision
+    - Joint project in collaboration with the institute home the most advanced  
+    device of its type: [Wendelstein 7-X](https://www.ipp.mpg.de/w7x)
+    - Soft-skills training followed: Public Speaking, Scientific Integrity,  
+    Project Managing, Writing Workshops and Student Supervision
 
 2016 - 2017
 :   **Master of Science (with distinction) in [Fusion Energy](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/)**
 
     *[University of York](https://www.york.ac.uk/physics/ypi/) · [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)*
 
-    - Specialisation program to address the current energy demand with an innovative solution: Nuclear Fusion
+    - Specialisation program to address the current energy demand  
+    with an innovative solution: Nuclear Fusion
     - Focus on theoretical plasma physics and HPC computing
     - One-year program with focus on research experience
     - Awarded a scholarship from the [Mexican Science and Technology Council](https://www.conacyt.gob.mx/)
@@ -98,11 +105,9 @@ Education
 
     *[Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)*
 
-    <!-- - Six months exchange program -->
-    - Followed courses:
-      - Particle physics
-      - Business organisation and management
-      - Entrepreneurship
+    - Six months exchange program
+    - Courses followed:
+      - Particle Physics, Business Organisation and Management, Entrepreneurship
 
 2009 - 2012
 :   **Bachelor of [Engineering Physics](http://cbi.azc.uam.mx/?page_id=31)**
@@ -137,8 +142,8 @@ Computer
 Programming
 :   * **Python** · Numpy, scipy, pandas, matplotlib, dask, cython
     * **Jupyter** · Lab and notebooks. Used for daily data analysis
-    * **MATLAB** · Data analysis, powerful toolset for engineers and scientists with full workflow experience
-    * **Mathematica** · Symbolic computing
+    * **MATLAB** · Data analysis, powerful toolset with full workflow experience
+    * **Mathematica** · Used for symbolic computing
     * **SLURM** · Job manager used for cluster computing
     * **C++** · Limited experience, used for side projects
     * **Fortran** · HPC applications such as [GENE](https://genecode.org/details.html)
@@ -162,6 +167,6 @@ References
 ----
 -->
 
-> ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <carlos@moramoreno.com>
+> ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <cd@moramoreno.com>
 
 > [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/master/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/master/CV_CD_Mora_Moreno.txt) · [html version](https://cv.moramoreno.com/) · [source](https://github.com/cardanmomo/CV)

@@ -1,8 +1,10 @@
 Carlos D. Mora Moreno
 
-➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 ✉ carlos@moramoreno.com
+➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 ✉ cd@moramoreno.com
 
   LinkedIn
+  GitHub
+  chrome
 
 Delivering new technologies in benefit of the society is my passion. My
 experience as a researcher in industry and academia has prepared me to
@@ -35,7 +37,7 @@ Experience
 
 2017 - present
 
-    Ph.D. Candidate at Eindhoven University of Technology
+    Ph.D. Researcher at Eindhoven University of Technology
 
     -   Main project: Development of mathematical models to predict and
         reduce heat transport in fusion plasma reactors
@@ -50,7 +52,9 @@ Experience
         -   Prepare novel scientific publications
         -   Write research proposals and reports
         -   Deliver engaging presentations
-        -   Teaching and student supervision 2017
+        -   Teaching and student supervision
+
+2017
 
     Research Associate at UK Atomic Energy Authority
 
@@ -70,8 +74,7 @@ Experience
     Diagnostics Engineer at TAE technologies and spin-off Plasmatech
 
     -   Main project: Characterisation of impurity losses in a linear
-        plasma device using Doppler spectroscopy – bachelor’s thesis
-        topic
+        plasma device using Doppler spectroscopy
     -   Skills / duties:
         -   Hands-on maintenance of experimental setup
         -   Development of data acquisition routines
@@ -79,6 +82,7 @@ Experience
         -   Involvement in discussion of physical results
         -   Experience in a multi-physics, engineering and industrial
             environment
+    -   Bachelor’s thesis written on this topic
 
 ------------------------------------------------------------------------
 
@@ -92,11 +96,12 @@ Education
     Physics
 
     -   Specialisation in Science and Technology of Nuclear Fusion
-    -   In collaboration with the institute hosting the most advanced
+    -   Joint project in collaboration with the institute home the most
+        advanced
         device of its type: Wendelstein 7-X
-    -   Followed soft-skills training courses about communication,
-        scientific integrity, project managing, writing workshops, and
-        student supervision
+    -   Soft-skills training followed: Public Speaking, Scientific
+        Integrity,
+        Project Managing, Writing Workshops and Student Supervision
 
 2016 - 2017
 
@@ -104,8 +109,8 @@ Education
 
     University of York · UK Atomic Energy Authority
 
-    -   Specialisation program to address the current energy demand with
-        an innovative solution: Nuclear Fusion
+    -   Specialisation program to address the current energy demand
+        with an innovative solution: Nuclear Fusion
     -   Focus on theoretical plasma physics and HPC computing
     -   One-year program with focus on research experience
     -   Awarded a scholarship from the Mexican Science and Technology
@@ -117,10 +122,10 @@ Education
 
     Universitat Autònoma de Barcelona
 
-    -   Followed courses:
-        -   Particle physics
-        -   Business organisation and management
-        -   Entrepreneurship
+    -   Six months exchange program
+    -   Courses followed:
+        -   Particle Physics, Business Organisation and Management,
+            Entrepreneurship
 
 2009 - 2012
 
@@ -160,9 +165,9 @@ Programming
 
     -   Python · Numpy, scipy, pandas, matplotlib, dask, cython
     -   Jupyter · Lab and notebooks. Used for daily data analysis
-    -   MATLAB · Data analysis, powerful toolset for engineers and
-        scientists with full workflow experience
-    -   Mathematica · Symbolic computing
+    -   MATLAB · Data analysis, powerful toolset with full workflow
+        experience
+    -   Mathematica · Used for symbolic computing
     -   SLURM · Job manager used for cluster computing
     -   C++ · Limited experience, used for side projects
     -   Fortran · HPC applications such as GENE
@@ -172,6 +177,6 @@ Programming
 ------------------------------------------------------------------------
 
   ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉
-  carlos@moramoreno.com
+  cd@moramoreno.com
 
   pdf version · txt version · html version · source
