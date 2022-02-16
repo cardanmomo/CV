@@ -18,15 +18,15 @@ My most recent results explain a decade-long problem about geometric constraints
 
 ----
 
-<font color="dc303d">Values:</font>
+<font color="dc303d">Values</font>
 :   <font size="2.95">Curiosity, transcendence, innovation, pursue of excellence, responsibility, confidence, team spirit </font>\
 \
 
-<font color="dc303d">Competencies:</font>
+<font color="dc303d">Competencies</font>
 :   <font size="2.95">Analytical mind, attention to detail, leadership, proactivity, persistency, reliability, multiculturality </font>\
 \
 
-<font color="dc303d">Technical skills:</font>
+<font color="dc303d">Technical skills</font>
 :   <font size="2.95">Mathematical modelling, data management and analysis using computational tools, ability to perform lab experiments, creative approach to problem solving, fast learner in changing environments, troubleshoot of complex problems both in a team or on my own, excellent oral and written communication skills </font>
 
 ----
@@ -153,13 +153,13 @@ Programming
 
 Personal
 -----
-Nationality:
+Nationality
 :   Mexican
 
-Visa status:
+Visa status
 :   Researcher under the Directive (EU) 2016/801
 
-Date of birth:
+Date of birth
 :   20 September 1990
 
 ----

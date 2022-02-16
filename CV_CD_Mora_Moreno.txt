@@ -16,15 +16,15 @@ constraints.
 
 ------------------------------------------------------------------------
 
-Values:
+Values
     Curiosity, transcendence, innovation, pursue of excellence,
     responsibility, confidence, team spirit
 
-Competencies:
+Competencies
     Analytical mind, attention to detail, leadership, proactivity,
     persistency, reliability, multiculturality
 
-Technical skills:
+Technical skills
     Mathematical modelling, data management and analysis using
     computational tools, ability to perform lab experiments, creative
     approach to problem solving, fast learner in changing environments,
@@ -178,13 +178,13 @@ Programming
 
 Personal
 
-Nationality:
+Nationality
     Mexican
 
-Visa status:
+Visa status
     Researcher under the Directive (EU) 2016/801
 
-Date of birth:
+Date of birth
     20 September 1990
 
 ------------------------------------------------------------------------
