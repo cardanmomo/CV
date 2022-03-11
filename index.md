@@ -159,9 +159,9 @@ Nationality
 
 Visa status
 :   Researcher under the Directive (EU) 2016/801\
-\
+<!-- \ -->
 
-Date of birth
+<!-- Date of birth -->
 <!-- :   20 September 1990 -->
 
 ----
