@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-See latest master on [cv.moramoreno.com](https://cv.moramoreno.com)
+See latest master on [moramoreno.com/cv](https://moramoreno.com/cv/)
 
 * Based on [resume](https://github.com/chmduquesne/resume) by Christophe-Marie Duquesne.
 * Modified to fit my needs

@@ -162,7 +162,7 @@ Visa status
 \
 
 Date of birth
-:   20 September 1990
+<!-- :   20 September 1990 -->
 
 ----
 
@@ -183,4 +183,4 @@ References
 
 > ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <cd@moramoreno.com>
 
-> [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt) · [html version](https://cv.moramoreno.com/) · [source](https://github.com/cardanmomo/CV)
+> [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt) · [html version](https://moramoreno.com/cv/) · [source](https://github.com/cardanmomo/CV)
