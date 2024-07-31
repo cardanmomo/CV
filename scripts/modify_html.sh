@@ -17,27 +17,27 @@ echo 'add fontawesome to head'
 headend_line=$(grep -n -m 1 '<\/head' index.html | cut -f1 -d":")
 fontawesome_url="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
 gsed -i ${headend_line}"i  <link rel=\"stylesheet\" href=$(sed 's|/|\/|g' <<< ${fontawesome_url}) integrity=\"sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp\" crossorigin=\"anonymous\">" index.html
-
-echo 'add google analytics to head'
-headend_line=$(grep -n -m 1 '<\/head' index.html | cut -f1 -d":")
-cat > tmp_ga.html << 'EOF'
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6FRVJKWQHT"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-6FRVJKWQHT');
-  </script>
-EOF
-sed -i '' $(($headend_line - 1))"r tmp_ga.html" index.html
-rm tmp_ga.html
-
+#
+# echo 'add google analytics to head'
+# headend_line=$(grep -n -m 1 '<\/head' index.html | cut -f1 -d":")
+# cat > tmp_ga.html << 'EOF'
+#   <!-- Global site tag (gtag.js) - Google Analytics -->
+#   <script async src="https://www.googletagmanager.com/gtag/js?id=G-6FRVJKWQHT"></script>
+#   <script>
+#     window.dataLayer = window.dataLayer || [];
+#     function gtag(){dataLayer.push(arguments);}
+#     gtag('js', new Date());
+#     gtag('config', 'G-6FRVJKWQHT');
+#   </script>
+# EOF
+# sed -i '' $(($headend_line - 1))"r tmp_ga.html" index.html
+# rm tmp_ga.html
+#
 echo 'add media logos'
 # set up variables
-nr_media=3
-declare -a urls=("https://www.linkedin.com/in/c-mora-moreno/" "https://www.tue.nl/en/research/researchers/carlos-daniel-mora-moreno/" "https://moramoreno.com")
-declare -a names=("linkedin" "graduation-cap" "desktop")
+nr_media=1
+declare -a urls=("https://www.linkedin.com/in/c-mora-moreno/")
+declare -a names=("linkedin")
 # change blockquote to a centered div
 media_line=$(grep -n -m 1 'blockquote' index.html | cut -f1 -d":")
 sed -i '' ${media_line}'s/blockquote/div style="text-align:center; margin-bottom:15px"/' index.html

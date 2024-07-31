@@ -3,38 +3,60 @@ Carlos D. Mora Moreno
 
 ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <cd@moramoreno.com>
 -----------------------------------------------------------------------
-> [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)   
-> [graduation-cap](https://www.tue.nl/en/research/researchers/carlos-daniel-mora-moreno/)  
-> [desktop](https://moramoreno.com)
+> [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)
 
 <center>
 <font size="4">
-Delivering new technologies in benefit of the society is my passion.  
-My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution.  
-My most recent results resolve a decade-long problem about geometric constraints.
-</font>
-</center>
+Delivering new energy technologies in benefit of the society is my talent.
+</center>  
 
+
+Passionate about the energy transition, with experience in innovative energy carriers and converters, ranging from large research devices to household appliances. I recognize the importance of the human factor in technical projects and am interested in policy development, regulations, and standardization at the European level. Aim to further develop my skills in project management, business development, and stakeholder engagement.
+</font>
 
 ----
 
+<font color="dc303d">Top talents</font>
+:   <font size="2.95">Mathematical Modeling and Data Science, Energy Technology, Project and Stakeholder Management </font>\
+
 <font color="dc303d">Values</font>
-:   <font size="2.95">Curiosity, transcendence, innovation, pursue of excellence, responsibility, confidence, team spirit </font>\
-\
+:   <font size="2.95">Curiosity, Innovation, Pursue of Excellence, Responsibility, Confidence, Team Spirit </font>\
 
 <font color="dc303d">Competencies</font>
-:   <font size="2.95">Analytical mind, attention to detail, leadership, proactivity, persistency, reliability, multiculturality </font>\
-\
-
-<font color="dc303d">Technical skills</font>
-:   <font size="2.95">Mathematical modelling, data management and analysis using computational tools, ability to perform lab experiments, creative approach to problem solving, fast learner in changing environments, troubleshoot of complex problems both in a team or on my own, excellent oral and written communication skills </font>
+:   <font size="2.95">Analytical Mind, Attention to Detail, Creativity, Leadership, Multi-level Communication </font>
 
 ----
 
 Experience
 ----------
 
-2017 - present
+2022 - 2023
+:   **Data Scientist [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
+
+    - **Main responsibility:** R&D of Energy Management solutions.
+    - **Skills / duties:**
+      - Data analysis and visualization
+      - Project planning and execution
+      - Collaboration with academia
+      - Policy development
+      - Product strategy development
+      - Explore the feasibility of use cases
+      - Field trial launching
+
+2022 - 2023
+:   **Simulation and Modeling Engineer [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
+
+    - **Main responsibility:** Development of numerical models of hydronic components for automated testing.
+    - **Skills / duties:**
+      - Agile / Scrum methodologies
+      - Project planning and execution
+      - Stakeholder Management
+      - Product strategy development
+      - Quality control of software products
+      - Automated testing
+      - Mathematical model validation
+
+2017 - 2022
 :   **Ph.D. Researcher at [Eindhoven University of Technology](https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/)**
 
     - **Main project:** Development of mathematical models to predict and reduce heat transport in fusion plasma reactors
@@ -126,8 +148,8 @@ Languages
     | -----------| ----- |
     | Spanish    | ★★★★★ |
     | English    | ★★★★★ |
+    | Dutch      | ★★★★☆ |
     | Italian    | ★★★★☆ |
-    | Dutch      | ★★★½☆ |
 
 Computer
 :   * **[Linux](https://www.linux.org/)** · Preferred operating system (Suse)
@@ -138,27 +160,27 @@ Computer
     * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · Used for this curriculum vitae (with markdown → Pandoc)
     * **Microsoft Office** · Where useful
 
+Team Collaboration
+:   * **[Jira](https://www.atlassian.com/software/jira)** · Project tracking software
+    * **[Miro](https://miro.com/)** · Creative collaborative workspaces
+    * **[Azure DevOps](https://azure.microsoft.com/en-us/products/devops)** · Software development
+    * **[Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)** · AI development environment
+
 Programming
-:   * **Python** · Numpy, scipy, pandas, matplotlib, dask, cython
+:   * **Python** · Numpy, scipy, pandas, matplotlib, cython
     * **Jupyter** · Lab and notebooks. Used for daily data analysis
-    * **MATLAB** · Data analysis, powerful toolset with full workflow experience
     * **Mathematica** · Used for symbolic computing
-    * **SLURM** · Job manager used for cluster computing
     * **C++** · Limited experience, used for side projects
     * **Fortran** · HPC applications such as [GENE](https://genecode.org/details.html)
     * **Bash**, **Make** · Experience with linux scripting and development
-    * **MPI**, **OpenMP** · Used for parallelisation for HPC
 
 ----
 
 Personal
 -----
 Nationality
-:   Mexican\
+:   Dutch, Mexican\
 \
-
-Visa status
-:   Researcher under the Directive (EU) 2016/801\
 <!-- \ -->
 
 <!-- Date of birth -->
@@ -183,4 +205,4 @@ References
 
 > ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <cd@moramoreno.com>
 
-> [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt) · [html version](https://moramoreno.com/cv/) · [source](https://github.com/cardanmomo/CV)
+> [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt) · [source](https://github.com/cardanmomo/CV)

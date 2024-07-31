@@ -27,35 +27,62 @@
 <h1 id="carlos-d.-mora-moreno">Carlos D. Mora Moreno</h1>
 <h2 id="deventer-the-netherlands-31-0-618-94-77-97-cdmoramoreno.com">➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉ <a href="mailto:cd@moramoreno.com" class="email">cd@moramoreno.com</a></h2>
 <blockquote>
-<p><a href="https://www.linkedin.com/in/c-mora-moreno/">LinkedIn</a><br />
-<a href="https://www.tue.nl/en/research/researchers/carlos-daniel-mora-moreno/">graduation-cap</a><br />
-<a href="https://moramoreno.com">desktop</a></p>
+<p><a href="https://www.linkedin.com/in/c-mora-moreno/">LinkedIn</a></p>
 </blockquote>
 <center>
-<font size="4"> Delivering new technologies in benefit of the society is my passion.<br />
-My experience as a researcher in industry and academia has prepared me to react to the technological challenges facing the digital age. I manage a project focusing on the development of predictive models to better understand and improve a sustainable energy solution.<br />
-My most recent results resolve a decade-long problem about geometric constraints. </font>
+<font size="4"> Delivering new energy technologies in benefit of the society is my talent.
 </center>
+<p>Passionate about the energy transition, with experience in innovative energy carriers and converters, ranging from large research devices to household appliances. I recognize the importance of the human factor in technical projects and am interested in policy development, regulations, and standardization at the European level. Aim to further develop my skills in project management, business development, and stakeholder engagement. </font></p>
 <hr />
 <dl>
+<dt><font color="dc303d">Top talents</font></dt>
+<dd><font size="2.95">Mathematical Modeling and Data Science, Energy Technology, Project and Stakeholder Management </font><br />
+
+</dd>
 <dt><font color="dc303d">Values</font></dt>
-<dd><font size="2.95">Curiosity, transcendence, innovation, pursue of excellence, responsibility, confidence, team spirit </font><br />
-<br />
+<dd><font size="2.95">Curiosity, Innovation, Pursue of Excellence, Responsibility, Confidence, Team Spirit </font><br />
 
 </dd>
 <dt><font color="dc303d">Competencies</font></dt>
-<dd><font size="2.95">Analytical mind, attention to detail, leadership, proactivity, persistency, reliability, multiculturality </font><br />
-<br />
-
-</dd>
-<dt><font color="dc303d">Technical skills</font></dt>
-<dd><font size="2.95">Mathematical modelling, data management and analysis using computational tools, ability to perform lab experiments, creative approach to problem solving, fast learner in changing environments, troubleshoot of complex problems both in a team or on my own, excellent oral and written communication skills </font>
+<dd><font size="2.95">Analytical Mind, Attention to Detail, Creativity, Leadership, Multi-level Communication </font>
 </dd>
 </dl>
 <hr />
 <h2 id="experience">Experience</h2>
 <dl>
-<dt>2017 - present</dt>
+<dt>2022 - 2023</dt>
+<dd><p><strong>Data Scientist <a href="https://www.linkedin.com/company/bdr-thermea">BDR Thermea &amp; Remeha</a></strong></p>
+<ul>
+<li><strong>Main responsibility:</strong> R&amp;D of Energy Management solutions.</li>
+<li><strong>Skills / duties:</strong>
+<ul>
+<li>Data analysis and visualization</li>
+<li>Project planning and execution</li>
+<li>Collaboration with academia</li>
+<li>Policy development</li>
+<li>Product strategy development</li>
+<li>Explore the feasibility of use cases</li>
+<li>Field trial launching</li>
+</ul></li>
+</ul>
+</dd>
+<dt>2022 - 2023</dt>
+<dd><p><strong>Simulation and Modeling Engineer <a href="https://www.linkedin.com/company/bdr-thermea">BDR Thermea &amp; Remeha</a></strong></p>
+<ul>
+<li><strong>Main responsibility:</strong> Development of numerical models of hydronic components for automated testing.</li>
+<li><strong>Skills / duties:</strong>
+<ul>
+<li>Agile / Scrum methodologies</li>
+<li>Project planning and execution</li>
+<li>Stakeholder Management</li>
+<li>Product strategy development</li>
+<li>Quality control of software products</li>
+<li>Automated testing</li>
+<li>Mathematical model validation</li>
+</ul></li>
+</ul>
+</dd>
+<dt>2017 - 2022</dt>
 <dd><p><strong>Ph.D. Researcher at <a href="https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/">Eindhoven University of Technology</a></strong></p>
 <ul>
 <li><strong>Main project:</strong> Development of mathematical models to predict and reduce heat transport in fusion plasma reactors</li>
@@ -164,12 +191,12 @@ with an innovative solution: Nuclear Fusion</li>
 <td>★★★★★</td>
 </tr>
 <tr class="odd">
-<td>Italian</td>
+<td>Dutch</td>
 <td>★★★★☆</td>
 </tr>
 <tr class="even">
-<td>Dutch</td>
-<td>★★★½☆</td>
+<td>Italian</td>
+<td>★★★★☆</td>
 </tr>
 </tbody>
 </table>
@@ -185,17 +212,22 @@ with an innovative solution: Nuclear Fusion</li>
 <li><strong>Microsoft Office</strong> · Where useful</li>
 </ul>
 </dd>
+<dt>Team Collaboration</dt>
+<dd><ul>
+<li><strong><a href="https://www.atlassian.com/software/jira">Jira</a></strong> · Project tracking software</li>
+<li><strong><a href="https://miro.com/">Miro</a></strong> · Creative collaborative workspaces</li>
+<li><strong><a href="https://azure.microsoft.com/en-us/products/devops">Azure DevOps</a></strong> · Software development</li>
+<li><strong><a href="https://azure.microsoft.com/en-us/products/machine-learning">Azure ML</a></strong> · AI development environment</li>
+</ul>
+</dd>
 <dt>Programming</dt>
 <dd><ul>
-<li><strong>Python</strong> · Numpy, scipy, pandas, matplotlib, dask, cython</li>
+<li><strong>Python</strong> · Numpy, scipy, pandas, matplotlib, cython</li>
 <li><strong>Jupyter</strong> · Lab and notebooks. Used for daily data analysis</li>
-<li><strong>MATLAB</strong> · Data analysis, powerful toolset with full workflow experience</li>
 <li><strong>Mathematica</strong> · Used for symbolic computing</li>
-<li><strong>SLURM</strong> · Job manager used for cluster computing</li>
 <li><strong>C++</strong> · Limited experience, used for side projects</li>
 <li><strong>Fortran</strong> · HPC applications such as <a href="https://genecode.org/details.html">GENE</a></li>
 <li><strong>Bash</strong>, <strong>Make</strong> · Experience with linux scripting and development</li>
-<li><strong>MPI</strong>, <strong>OpenMP</strong> · Used for parallelisation for HPC</li>
 </ul>
 </dd>
 </dl>
@@ -203,12 +235,8 @@ with an innovative solution: Nuclear Fusion</li>
 <h2 id="personal">Personal</h2>
 <dl>
 <dt>Nationality</dt>
-<dd>Mexican<br />
+<dd>Dutch, Mexican<br />
 <br />
-
-</dd>
-<dt>Visa status</dt>
-<dd>Researcher under the Directive (EU) 2016/801<br />
 <!-- \ -->
 </dd>
 </dl>
@@ -233,7 +261,7 @@ References
 <p>➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉ <a href="mailto:cd@moramoreno.com" class="email">cd@moramoreno.com</a></p>
 </blockquote>
 <blockquote>
-<p><a href="https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf">pdf version</a> · <a href="https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt">txt version</a> · <a href="https://moramoreno.com/cv/">html version</a> · <a href="https://github.com/cardanmomo/CV">source</a></p>
+<p><a href="https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf">pdf version</a> · <a href="https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt">txt version</a> · <a href="https://github.com/cardanmomo/CV">source</a></p>
 </blockquote>
 </body>
 </html>

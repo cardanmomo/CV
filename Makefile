@@ -14,9 +14,8 @@ else
 	@echo "ERROR: no puppeteer installation found in subfolder - see README"
 endif
 
-
 txt: index.md
 	pandoc --standalone --from markdown+smart --to plain -o CV_CD_Mora_Moreno.txt index.md
 
 clean:
-	rm -f *.html *.pdf *.txt
+	rm -f *.html *.html-e *.pdf *.txt
