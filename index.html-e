@@ -30,12 +30,16 @@
 <p><a href="https://www.linkedin.com/in/c-mora-moreno/">LinkedIn</a></p>
 </blockquote>
 <center>
-<font size="4"> Delivering new energy technologies in benefit of the society is my talent.
+<font color="dc303d"> <font size="4"> Delivering new energy technologies in benefit of the society is my talent. </font> </font>
 </center>
-<p>Passionate about the energy transition, with experience in innovative energy carriers and converters, ranging from large research devices to household appliances. I recognize the importance of the human factor in technical projects and am interested in policy development, regulations, and standardization at the European level. Aim to further develop my skills in project management, business development, and stakeholder engagement. </font></p>
+<p><br />
+</p>
+<p><font size="4"> Passionate about the energy transition, with experience in innovative energy carriers and converters across various scales, from research devices to household appliances. Focused on the human aspect in technical projects, with a strong interest in European policy, regulations, and standardization. Seeking to enhance skills in project management, business development, and policy dynamics. </font></p>
 <hr />
+<p><br />
+</p>
 <dl>
-<dt><font color="dc303d">Top talents</font></dt>
+<dt><font color="dc303d">Expertise</font></dt>
 <dd><font size="2.95">Mathematical Modeling and Data Science, Energy Technology, Project and Stakeholder Management </font><br />
 
 </dd>
@@ -47,6 +51,8 @@
 <dd><font size="2.95">Analytical Mind, Attention to Detail, Creativity, Leadership, Multi-level Communication </font>
 </dd>
 </dl>
+<p><br />
+</p>
 <hr />
 <h2 id="experience">Experience</h2>
 <dl>
@@ -83,20 +89,17 @@
 </ul>
 </dd>
 <dt>2017 - 2022</dt>
-<dd><p><strong>Ph.D. Researcher at <a href="https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/">Eindhoven University of Technology</a></strong></p>
+<dd><p><strong>Graduate Research Fellow at <a href="https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/">Eindhoven University of Technology</a></strong></p>
 <ul>
-<li><strong>Main project:</strong> Development of mathematical models to predict and reduce heat transport in fusion plasma reactors</li>
-<li><strong>Skills / duties:</strong>
+<li><strong>Subject of the Project:</strong> Development of advanced predictive models and algorithms aimed at mitigating turbulent heat transport in fusion plasma experiments</li>
+<li><strong>Skills acquired:</strong>
 <ul>
-<li>Perform 5-D numerical simulations in high performance computers</li>
-<li>Program data analysis routines using modern languages</li>
-<li>‘Big data’ approach for analysis of terabytes of turbulence simulations</li>
-<li>Build models, then test and validate their performance</li>
-<li>Manage multi-national collaborative tasks</li>
-<li>Prepare novel scientific publications</li>
-<li>Write research proposals and reports</li>
-<li>Deliver engaging presentations</li>
-<li>Teaching and student supervision</li>
+<li><em>High-Performance Computing</em> Large-scale simulations and optimization</li>
+<li><em>Data Engineering &amp; Visualization</em> Data pipelines and impactful visualizations</li>
+<li><em>Predictive Modeling</em> Accurate and reliable model development</li>
+<li><em>Project Management</em> Coordinated international research collaborations</li>
+<li><em>Scientific Training</em> Research, integrity, writing, and communication</li>
+<li><em>Mentorship</em> Guided M.Sc. students through successful final projects</li>
 </ul></li>
 </ul>
 </dd>
@@ -117,7 +120,7 @@
 <dt>2015 - 2016</dt>
 <dd><p><strong>Diagnostics Engineer at <a href="https://tae.com/">TAE technologies</a> and spin-off <a href="https://www.linkedin.com/company/plasma-diagnostics-and-technologies/about/">Plasmatech</a></strong></p>
 <ul>
-<li><strong>Main project:</strong> Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy</li>
+<li><strong>Main project:</strong> Characterization of impurity losses in a linear plasma device using Doppler spectroscopy</li>
 <li><strong>Skills / duties:</strong>
 <ul>
 <li>Hands-on maintenance of experimental setup</li>
@@ -133,22 +136,11 @@
 <hr />
 <h2 id="education">Education</h2>
 <dl>
-<dt>2017 - present (est. May 2022)</dt>
-<dd><p><strong>Ph.D. in Applied Physics</strong></p>
-<p><em><a href="https://www.tue.nl/">Eindhoven University of Technology</a> · <a href="https://www.ipp.mpg.de/en">Max Planck Institute for Plasma Physics</a></em></p>
-<ul>
-<li>Specialisation in Science and Technology of Nuclear Fusion</li>
-<li>Joint project in collaboration with the institute home the most advanced<br />
-device of its type: <a href="https://www.ipp.mpg.de/w7x">Wendelstein 7-X</a></li>
-<li>Soft-skills training followed: Public Speaking, Scientific Integrity,<br />
-Project Managing, Writing Workshops and Student Supervision</li>
-</ul>
-</dd>
 <dt>2016 - 2017</dt>
 <dd><p><strong>Master of Science (with distinction) in <a href="https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/">Fusion Energy</a></strong></p>
 <p><em><a href="https://www.york.ac.uk/physics/ypi/">University of York</a> · <a href="https://www.gov.uk/government/organisations/uk-atomic-energy-authority">UK Atomic Energy Authority</a></em></p>
 <ul>
-<li>Specialisation program to address the current energy demand<br />
+<li>Specialization program to address the current energy demand<br />
 with an innovative solution: Nuclear Fusion</li>
 <li>Focus on theoretical plasma physics and HPC computing</li>
 <li>One-year program with focus on research experience</li>
@@ -162,10 +154,14 @@ with an innovative solution: Nuclear Fusion</li>
 <li>Six months exchange program</li>
 <li>Courses followed:
 <ul>
-<li>Particle Physics, Business Organisation and Management, Entrepreneurship</li>
+<li>Particle Physics, Business Organization and Management, Entrepreneurship</li>
 </ul></li>
 </ul>
 </dd>
+</dl>
+<p><br />
+</p>
+<dl>
 <dt>2009 - 2012</dt>
 <dd><p><strong>Bachelor of <a href="http://cbi.azc.uam.mx/?page_id=31">Engineering Physics</a></strong></p>
 <p><em><a href="https://azc.uam.mx/">Universidad Autónoma Metropolitana - Azcapotzalco</a></em></p>
@@ -239,9 +235,10 @@ with an innovative solution: Nuclear Fusion</li>
 <br />
 <!-- \ -->
 </dd>
+<dt>Date of birth</dt>
+<dd>20 September 1990
+</dd>
 </dl>
-<!-- Date of birth -->
-<!-- :   20 September 1990 -->
 <hr />
 <!---
 References

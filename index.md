@@ -6,17 +6,24 @@ Carlos D. Mora Moreno
 > [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)
 
 <center>
+<font color="dc303d">
 <font size="4">
 Delivering new energy technologies in benefit of the society is my talent.
+</font>
+</font>
 </center>  
 
+\
 
-Passionate about the energy transition, with experience in innovative energy carriers and converters, ranging from large research devices to household appliances. I recognize the importance of the human factor in technical projects and am interested in policy development, regulations, and standardization at the European level. Aim to further develop my skills in project management, business development, and stakeholder engagement.
+<font size="4">
+Passionate about the energy transition, with experience in innovative energy carriers and converters across various scales, from research devices to household appliances. Focused on the human aspect in technical projects, with a strong interest in European policy, regulations, and standardization. Seeking to enhance skills in project management, business development, and policy dynamics.
 </font>
 
 ----
 
-<font color="dc303d">Top talents</font>
+\
+
+<font color="dc303d">Expertise</font>
 :   <font size="2.95">Mathematical Modeling and Data Science, Energy Technology, Project and Stakeholder Management </font>\
 
 <font color="dc303d">Values</font>
@@ -24,6 +31,8 @@ Passionate about the energy transition, with experience in innovative energy car
 
 <font color="dc303d">Competencies</font>
 :   <font size="2.95">Analytical Mind, Attention to Detail, Creativity, Leadership, Multi-level Communication </font>
+
+\
 
 ----
 
@@ -57,19 +66,16 @@ Experience
       - Mathematical model validation
 
 2017 - 2022
-:   **Ph.D. Researcher at [Eindhoven University of Technology](https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/)**
+:   **Graduate Research Fellow at [Eindhoven University of Technology](https://www.tue.nl/en/research/research-groups/science-and-technology-of-nuclear-fusion/)**
 
-    - **Main project:** Development of mathematical models to predict and reduce heat transport in fusion plasma reactors
-    - **Skills / duties:**
-      - Perform 5-D numerical simulations in high performance computers
-      - Program data analysis routines using modern languages
-      - 'Big data' approach for analysis of terabytes of turbulence simulations
-      - Build models, then test and validate their performance
-      - Manage multi-national collaborative tasks
-      - Prepare novel scientific publications
-      - Write research proposals and reports
-      - Deliver engaging presentations
-      - Teaching and student supervision
+    - **Subject of the Project:** Development of advanced predictive models and algorithms aimed at mitigating turbulent heat transport in fusion plasma experiments
+    - **Skills acquired:**
+      - *High-Performance Computing* Large-scale simulations and optimization
+      - *Data Engineering & Visualization* Data pipelines and impactful visualizations
+      - *Predictive Modeling* Accurate and reliable model development
+      - *Project Management* Coordinated international research collaborations
+      - *Scientific Training* Research, integrity, writing, and communication
+      - *Mentorship* Guided M.Sc. students through successful final projects
 
 2017
 :   **Research Associate at [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)**
@@ -85,7 +91,7 @@ Experience
 2015 - 2016
 :   **Diagnostics Engineer at [TAE technologies](https://tae.com/) and spin-off [Plasmatech](https://www.linkedin.com/company/plasma-diagnostics-and-technologies/about/)**
 
-    - **Main project:** Characterisation of impurity losses in a linear plasma device using Doppler spectroscopy
+    - **Main project:** Characterization of impurity losses in a linear plasma device using Doppler spectroscopy
     - **Skills / duties:**
       - Hands-on maintenance of experimental setup
       - Development of data acquisition routines
@@ -99,23 +105,12 @@ Experience
 Education
 ---------
 
-2017 - present (est. May 2022)
-:   **Ph.D. in Applied Physics**
-
-    *[Eindhoven University of Technology](https://www.tue.nl/) · [Max Planck Institute for Plasma Physics](https://www.ipp.mpg.de/en)*
-
-    - Specialisation in Science and Technology of Nuclear Fusion
-    - Joint project in collaboration with the institute home the most advanced  
-    device of its type: [Wendelstein 7-X](https://www.ipp.mpg.de/w7x)
-    - Soft-skills training followed: Public Speaking, Scientific Integrity,  
-    Project Managing, Writing Workshops and Student Supervision
-
 2016 - 2017
 :   **Master of Science (with distinction) in [Fusion Energy](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-fusion-energy/)**
 
     *[University of York](https://www.york.ac.uk/physics/ypi/) · [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority)*
 
-    - Specialisation program to address the current energy demand  
+    - Specialization program to address the current energy demand  
     with an innovative solution: Nuclear Fusion
     - Focus on theoretical plasma physics and HPC computing
     - One-year program with focus on research experience
@@ -128,7 +123,9 @@ Education
 
     - Six months exchange program
     - Courses followed:
-      - Particle Physics, Business Organisation and Management, Entrepreneurship
+      - Particle Physics, Business Organization and Management, Entrepreneurship
+
+\
 
 2009 - 2012
 :   **Bachelor of [Engineering Physics](http://cbi.azc.uam.mx/?page_id=31)**
@@ -183,8 +180,8 @@ Nationality
 \
 <!-- \ -->
 
-<!-- Date of birth -->
-<!-- :   20 September 1990 -->
+Date of birth
+:   20 September 1990
 
 ----
 
