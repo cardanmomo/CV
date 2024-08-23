@@ -16,7 +16,7 @@ Delivering new energy technologies in benefit of the society is my talent.
 \
 
 <font size="4">
-Passionate about the energy transition, with experience in innovative energy carriers and converters across various scales, from research devices to household appliances. Focused on the human aspect in technical projects, with a strong interest in European policy, regulations, and standardization. Seeking to enhance skills in project management, business development, and policy dynamics.
+Passionate about the energy transition, with experience in innovative energy carriers and converters across various scales, from research devices to household appliances. Focused on the human aspect in technical projects, with a strong interest in European policy, regulations, and standardization. Seeking to further enhance skills in project management, business development, and policy dynamics.
 </font>
 
 ----
@@ -39,7 +39,7 @@ Passionate about the energy transition, with experience in innovative energy car
 Experience
 ----------
 
-2022 - 2023
+2023 - Present
 :   **Data Scientist [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
 
     - **Main responsibility:** R&D of Energy Management solutions.
@@ -155,7 +155,7 @@ Computer
     * **Bash, Make, ...** · Daily scripting and development
     * **[Git](https://git-scm.com/)** · For version control of virtually everything
     * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · Used for this curriculum vitae (with markdown → Pandoc)
-    * **Microsoft Office** · Where useful
+    * **Microsoft 365** · Where useful
 
 Team Collaboration
 :   * **[Jira](https://www.atlassian.com/software/jira)** · Project tracking software
