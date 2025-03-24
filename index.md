@@ -1,7 +1,7 @@
 Carlos D. Mora Moreno
 ===========
 
-➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <cd@moramoreno.com>
+➤ Hengelo, The Netherlands · ✆ +31 (0) 618 94 77 97 </br>✉  <cd@moramoreno.com>
 -----------------------------------------------------------------------
 > [LinkedIn](https://www.linkedin.com/in/c-mora-moreno/)
 
@@ -39,7 +39,18 @@ Passionate about the energy transition, with experience in innovative energy car
 Experience
 ----------
 
-2023 - Present
+March 2025 - Present
+:   **Strategic Portfolio Specialist  [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
+
+    - **Main responsibility:** Analysis of product portfolio performance.
+    - **Skills / duties:**
+      - Identify underperforming or non-strategic products for discontinuation
+      - Engage with local operating countries to coordinate product cessation processes
+      - Providing updates and impact analysis to the management board
+      - Cross-functional collaboration to ensure smooth phase-outs
+      - Ensuring that the streamlined portfolio contributes to higher efficiency and margin growth
+
+2023 - 2025
 :   **Data Scientist [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
 
     - **Main responsibility:** R&D of Energy Management solutions.
@@ -51,6 +62,7 @@ Experience
       - Product strategy development
       - Explore the feasibility of use cases
       - Field trial launching
+      - Design and commissioning of an Integrated Monitoring System
 
 2022 - 2023
 :   **Simulation and Modeling Engineer [BDR Thermea  & Remeha](https://www.linkedin.com/company/bdr-thermea)**
@@ -113,7 +125,7 @@ Education
     - Specialization program to address the current energy demand  
     with an innovative solution: Nuclear Fusion
     - Focus on theoretical plasma physics and HPC computing
-    - One-year program with focus on research experience
+    - One-year program with focus on research experience (at UKAEA)
     - Awarded a scholarship from the [Mexican Science and Technology Council](https://www.conacyt.gob.mx/)
 
 2014
@@ -121,18 +133,15 @@ Education
 
     *[Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html)*
 
-    - Six months exchange program
     - Courses followed:
-      - Particle Physics, Business Organization and Management, Entrepreneurship
-
-\
+      - Particle Physics, Discrete Mathematics, Business Organization and Management, Entrepreneurship
 
 2009 - 2012
 :   **Bachelor of [Engineering Physics](http://cbi.azc.uam.mx/?page_id=31)**
 
     *[Universidad Autónoma Metropolitana - Azcapotzalco](https://azc.uam.mx/)*
 
-    - Assistant at the local plasma laboratory
+    - Hands-on experience at the astrophysical plasma laboratory
     - International exchange scholarship
     - End-project scholarship
 
@@ -149,10 +158,8 @@ Languages
     | Italian    | ★★★★☆ |
 
 Computer
-:   * **[Linux](https://www.linux.org/)** · Preferred operating system (Suse)
-    * **[Vim](https://www.vim.org/)** · Preferred editor
+:   * **[Vim](https://www.vim.org/)** · Preferred editor
     * **[LaTeX](https://www.latex-project.org/)** · Publication-quality documents
-    * **Bash, Make, ...** · Daily scripting and development
     * **[Git](https://git-scm.com/)** · For version control of virtually everything
     * **[html, CSS](https://www.w3.org/standards/webdesign/htmlcss)** · Used for this curriculum vitae (with markdown → Pandoc)
     * **Microsoft 365** · Where useful
@@ -167,9 +174,6 @@ Programming
 :   * **Python** · Numpy, scipy, pandas, matplotlib, cython
     * **Jupyter** · Lab and notebooks. Used for daily data analysis
     * **Mathematica** · Used for symbolic computing
-    * **C++** · Limited experience, used for side projects
-    * **Fortran** · HPC applications such as [GENE](https://genecode.org/details.html)
-    * **Bash**, **Make** · Experience with linux scripting and development
 
 ----
 
@@ -200,6 +204,6 @@ References
 ----
 -->
 
-> ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <cd@moramoreno.com>
+> ➤ Hengelo, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉  <cd@moramoreno.com>
 
 > [pdf version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.pdf) · [txt version](https://raw.githubusercontent.com/cardanmomo/CV/main/CV_CD_Mora_Moreno.txt) · [source](https://github.com/cardanmomo/CV)

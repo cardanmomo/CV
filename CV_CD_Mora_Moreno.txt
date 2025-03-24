@@ -1,6 +1,6 @@
 Carlos D. Mora Moreno
 
-➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 ✉ cd@moramoreno.com
+➤ Hengelo, The Netherlands · ✆ +31 (0) 618 94 77 97 ✉ cd@moramoreno.com
 
   LinkedIn
 
@@ -32,7 +32,23 @@ Competencies
 
 Experience
 
-2023 - Present
+March 2025 - Present
+
+    Strategic Portfolio Specialist BDR Thermea & Remeha
+
+    -   Main responsibility: Analysis of product portfolio performance.
+    -   Skills / duties:
+        -   Identify underperforming or non-strategic products for
+            discontinuation
+        -   Engage with local operating countries to coordinate product
+            cessation processes
+        -   Providing updates and impact analysis to the management
+            board
+        -   Cross-functional collaboration to ensure smooth phase-outs
+        -   Ensuring that the streamlined portfolio contributes to
+            higher efficiency and margin growth
+
+2023 - 2025
 
     Data Scientist BDR Thermea & Remeha
 
@@ -45,6 +61,7 @@ Experience
         -   Product strategy development
         -   Explore the feasibility of use cases
         -   Field trial launching
+        -   Design and commissioning of an Integrated Monitoring System
 
 2022 - 2023
 
@@ -124,7 +141,7 @@ Education
     -   Specialization program to address the current energy demand
         with an innovative solution: Nuclear Fusion
     -   Focus on theoretical plasma physics and HPC computing
-    -   One-year program with focus on research experience
+    -   One-year program with focus on research experience (at UKAEA)
     -   Awarded a scholarship from the Mexican Science and Technology
         Council
 
@@ -134,10 +151,9 @@ Education
 
     Universitat Autònoma de Barcelona
 
-    -   Six months exchange program
     -   Courses followed:
-        -   Particle Physics, Business Organization and Management,
-            Entrepreneurship
+        -   Particle Physics, Discrete Mathematics, Business
+            Organization and Management, Entrepreneurship
 
 2009 - 2012
 
@@ -145,7 +161,7 @@ Education
 
     Universidad Autónoma Metropolitana - Azcapotzalco
 
-    -   Assistant at the local plasma laboratory
+    -   Hands-on experience at the astrophysical plasma laboratory
     -   International exchange scholarship
     -   End-project scholarship
 
@@ -164,10 +180,8 @@ Languages
 
 Computer
 
-    -   Linux · Preferred operating system (Suse)
     -   Vim · Preferred editor
     -   LaTeX · Publication-quality documents
-    -   Bash, Make, … · Daily scripting and development
     -   Git · For version control of virtually everything
     -   html, CSS · Used for this curriculum vitae (with markdown →
         Pandoc)
@@ -185,9 +199,6 @@ Programming
     -   Python · Numpy, scipy, pandas, matplotlib, cython
     -   Jupyter · Lab and notebooks. Used for daily data analysis
     -   Mathematica · Used for symbolic computing
-    -   C++ · Limited experience, used for side projects
-    -   Fortran · HPC applications such as GENE
-    -   Bash, Make · Experience with linux scripting and development
 
 ------------------------------------------------------------------------
 
@@ -201,7 +212,7 @@ Date of birth
 
 ------------------------------------------------------------------------
 
-  ➤ Deventer, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉
+  ➤ Hengelo, The Netherlands · ✆ +31 (0) 618 94 77 97 · ✉
   cd@moramoreno.com
 
   pdf version · txt version · source
